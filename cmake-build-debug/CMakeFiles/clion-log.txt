@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\tudor\OneDrive - stud.unifi.it\Documenti\CLionProjects\Jumper" -B "C:\Users\tudor\OneDrive - stud.unifi.it\Documenti\CLionProjects\Jumper\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/tudor/OneDrive - stud.unifi.it/Documenti/CLionProjects/Jumper/cmake-build-debug
